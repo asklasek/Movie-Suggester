@@ -42,10 +42,10 @@ class Suggester:
     
     ''' Class variables, change API keys to your own API keys that can be obtained for free'''
     tastediveURL__="https://tastedive.com/api/similar"
-    tastediveKey__="363963-MovieSug-I9NNJU5G"
+    tastediveKey__="363963-MovieSug-I9NNJU5GH"
     ombdURL__="http://www.omdbapi.com/"
-    omdbKey__="f8a641ae"
-    omdbID__="tt3896198"
+    omdbKey__="f8a641aef"
+    omdbID__="tt38961984"
 
     ''' Initialize an instance from a movie'''
     def __init__(self, movie):
